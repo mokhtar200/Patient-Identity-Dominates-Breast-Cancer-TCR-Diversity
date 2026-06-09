@@ -35,18 +35,18 @@ Patient-Identity-Dominates-Breast-Cancer-TCR-Diversity/
 - **Clonal-sharing network** — Jaccard inter-patient network, Louvain communities, Kruskal-Wallis test
 - **Mixed-effects model** — ICC estimation with cluster-bootstrap CI
 - **Centrality vs alpha** — Spearman correlation
-- **A1**: V/J gene segment usage frequencies
-- **A2**: CDR3 length distribution & amino acid composition
-- **A3**: Differential clonal abundance (log2 FC, FDR-corrected)
-- **A4**: Compartment-specific diversity & Treg dominance
-- **A5**: PERMDISP & ANOSIM beta-diversity tests
-- **A6**: Clonal dominance profiling (top1/5/10/20 fractions)
-- **A7**: Public vs private clonotype sharing
-- **A8**: Random Forest classification (Treg vs CD4_Memory)
-- **A9**: Variance partitioning (mixed models)
-- **A10**: CDR3 sequence similarity network (Levenshtein distance 1)
-- **A11**: Within-patient subset overlap (Jaccard)
-- **A12**: Jensen-Shannon divergence between subsets
+- V/J gene segment usage frequencies
+- CDR3 length distribution & amino acid composition
+- Differential clonal abundance (log2 FC, FDR-corrected)
+- Compartment-specific diversity & Treg dominance
+- PERMDISP & ANOSIM beta-diversity tests
+- Clonal dominance profiling (top1/5/10/20 fractions)
+- Public vs private clonotype sharing
+- Random Forest classification (Treg vs CD4_Memory)
+- Variance partitioning (mixed models)
+- CDR3 sequence similarity network (Levenshtein distance 1)
+- Within-patient subset overlap (Jaccard)
+- Jensen-Shannon divergence between subsets
 
 ## Requirements
 
