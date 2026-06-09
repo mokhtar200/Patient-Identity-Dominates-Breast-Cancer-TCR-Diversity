@@ -1,0 +1,22 @@
+                       Mixed Linear Model Regression Results
+====================================================================================
+Model:                       MixedLM          Dependent Variable:          Shannon  
+No. Observations:            148              Method:                      REML     
+No. Groups:                  33               Scale:                       0.5996   
+Min. group size:             2                Log-Likelihood:              -220.5678
+Max. group size:             9                Converged:                   Yes      
+Mean group size:             4.5                                                    
+------------------------------------------------------------------------------------
+                                          Coef.  Std.Err.   z    P>|z| [0.025 0.975]
+------------------------------------------------------------------------------------
+Intercept                                  4.957    0.330 15.023 0.000  4.311  5.604
+subset[T.Other]                            0.619    0.209  2.959 0.003  0.209  1.029
+subset[T.Treg]                             0.547    0.212  2.579 0.010  0.131  0.962
+compartment[T.Lymph node]                  0.590    0.408  1.448 0.148 -0.209  1.390
+compartment[T.Tumor]                       0.615    0.408  1.509 0.131 -0.184  1.415
+subset[T.Other]:compartment[T.Lymph node] -0.727    0.533 -1.365 0.172 -1.771  0.317
+subset[T.Treg]:compartment[T.Lymph node]  -0.577    0.534 -1.081 0.280 -1.623  0.469
+subset[T.Other]:compartment[T.Tumor]      -0.646    0.481 -1.341 0.180 -1.589  0.298
+subset[T.Treg]:compartment[T.Tumor]       -0.848    0.456 -1.861 0.063 -1.741  0.045
+Group Var                                  2.781    1.071                           
+====================================================================================

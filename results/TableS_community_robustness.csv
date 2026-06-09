@@ -1,0 +1,5 @@
+algorithm,n_communities,modularity,ARI_vs_Louvain
+Louvain,5,0.267,1.0
+Leiden,5,0.268,0.868
+Walktrap,4,0.229,0.451
+Infomap,2,0.14,0.157

@@ -1,0 +1,2 @@
+nodes,edges,density,transitivity,mean_degree,diameter,communities,modularity
+33,528,1.0,1.0,32.0,1,5,0.26655176809982756

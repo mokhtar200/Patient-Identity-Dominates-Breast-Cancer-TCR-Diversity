@@ -1,0 +1,4 @@
+subset,alpha,xmin,n_tail,tail_pct,KS_D,gof_p
+Treg,2.214,648.0,3753,1.16,0.0122,
+CD4_Memory,2.293,652.0,2161,0.81,0.017,
+Other,2.34,1245.0,1119,0.32,0.0172,

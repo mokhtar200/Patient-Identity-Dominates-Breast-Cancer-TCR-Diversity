@@ -1,0 +1,41 @@
+patient_id,c1,c2,shared,jaccard
+Patient14,Blood,Tumor,115,0.0828
+Patient12,Blood,Tumor,55,0.1418
+Patient8,Blood,Tumor,76,0.0398
+Patient6,Blood,Tumor,161,0.1194
+Patient5,Blood,Tumor,312,0.1713
+Patient4,Blood,Tumor,78,0.0656
+Patient3,Blood,Tumor,481,0.1395
+Patient31,Blood,Tumor,453,0.1955
+Patient30,Blood,Tumor,409,0.0862
+Patient29,Blood,Tumor,313,0.2271
+Patient28,Blood,Tumor,303,0.0961
+Patient27,Blood,Tumor,68,0.0637
+Patient26,Blood,Tumor,91,0.197
+Patient21,Blood,Tumor,103,0.0337
+Patient19,Blood,Tumor,102,0.0379
+Patient18,Blood,Tumor,32,0.0406
+Patient16,Blood,Tumor,52,0.0224
+Patient15,Blood,Tumor,105,0.0332
+Patient9,Blood,Tumor,19,0.0428
+Patient67,Blood,Tumor,22144,0.0979
+Patient67,Blood,Lymph node,12179,0.0589
+Patient67,Tumor,Lymph node,21161,0.0969
+Patient69,Blood,Tumor,23692,0.13
+Patient69,Blood,Lymph node,17172,0.115
+Patient69,Tumor,Lymph node,31832,0.1555
+Patient71,Blood,Tumor,2834,0.0593
+Patient71,Blood,Lymph node,2602,0.0652
+Patient71,Tumor,Lymph node,3273,0.0686
+Patient2,Blood,Tumor,86,0.0813
+Patient1,Blood,Tumor,224,0.0569
+Patient62,Blood,Tumor,7244,0.1133
+Patient62,Blood,Lymph node,5630,0.1341
+Patient62,Tumor,Lymph node,5760,0.0942
+Patient64,Blood,Tumor,2473,0.0759
+Patient64,Blood,Lymph node,1828,0.0546
+Patient64,Tumor,Lymph node,2116,0.0553
+Patient35,Blood,Tumor,235,0.1467
+Patient34,Blood,Tumor,335,0.058
+Patient33,Blood,Tumor,202,0.1926
+Patient32,Blood,Tumor,329,0.2114

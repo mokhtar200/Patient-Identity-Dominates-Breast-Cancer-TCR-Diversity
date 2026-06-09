@@ -1,0 +1,158 @@
+sample_id,patient_id,subset,compartment,n_clono,n_reads,pass_qc
+SRR3034175,Patient14,CD4_Memory,Blood,179,156319,True
+SRR3034174,Patient13,CD4_Memory,Blood,28,139479,False
+SRR3034173,Patient12,CD4_Memory,Blood,106,115918,True
+SRR3034172,Patient10,CD4_Memory,Blood,176,125144,True
+SRR3034171,Patient9,CD4_Memory,Blood,56,410132,False
+SRR3051536,Patient8,CD4_Memory,Blood,1093,147047,True
+SRR3028795,Patient6,CD4_Memory,Blood,465,254722,True
+SRR3028735,Patient5,CD4_Memory,Blood,753,323103,True
+SRR3028734,Patient4,CD4_Memory,Blood,455,190074,True
+SRR3028733,Patient3,CD4_Memory,Blood,658,342929,True
+SRR3045990,Patient31,Treg,Blood,572,255406,True
+SRR3028210,Patient30,Treg,Tumor,2247,180615,True
+SRR3028201,Patient29,Treg,Tumor,518,190032,True
+SRR3028189,Patient28,Treg,Tumor,937,328639,True
+SRR3028179,Patient27,Treg,Tumor,484,118602,True
+SRR3028168,Patient26,Treg,Tumor,188,120241,True
+SRR3028147,Patient21,Treg,Tumor,296,225251,True
+SRR2939869,Patient19,Treg,Tumor,463,455683,True
+SRR2939868,Patient18,Treg,Tumor,111,155250,True
+SRR2939867,Patient17,Treg,Tumor,92,70704,False
+SRR2939866,Patient16,Treg,Tumor,212,328985,True
+SRR2939865,Patient15,Treg,Tumor,673,246287,True
+SRR2939864,Patient14,Treg,Tumor,279,162957,True
+SRR2939863,Patient13,Treg,Tumor,91,243809,False
+SRR2939862,Patient12,Treg,Tumor,105,182383,True
+SRR2939861,Patient10,Treg,Tumor,66,507380,False
+SRR2939860,Patient9,Treg,Tumor,215,146219,True
+SRR2939859,Patient8,Treg,Tumor,208,166569,True
+SRR2939858,Patient6,Treg,Tumor,378,243277,True
+SRR2939857,Patient5,Treg,Tumor,557,213705,True
+SRR2939856,Patient4,Treg,Tumor,377,246659,True
+SRR4362906,Patient67,Other,Blood,45844,259161,True
+SRR4362908,Patient67,CD4_Memory,Blood,31606,230576,True
+SRR4362910,Patient67,Treg,Blood,41596,357694,True
+SRR4362912,Patient67,Other,Lymph node,31103,198775,True
+SRR4362914,Patient67,CD4_Memory,Lymph node,40616,181659,True
+SRR4362916,Patient67,Treg,Lymph node,42785,416120,True
+SRR4362918,Patient67,Other,Tumor,62127,452354,True
+SRR4362920,Patient67,CD4_Memory,Tumor,41571,222344,True
+SRR4362922,Patient67,Treg,Tumor,57065,491928,True
+SRR4362924,Patient69,Other,Blood,53751,420634,True
+SRR4362926,Patient69,CD4_Memory,Blood,8592,399124,True
+SRR4362928,Patient69,Treg,Blood,9964,379575,True
+SRR4362930,Patient69,Other,Lymph node,39655,315026,True
+SRR4362932,Patient69,CD4_Memory,Lymph node,64229,476572,True
+SRR4362934,Patient69,Treg,Lymph node,10970,488646,True
+SRR4362936,Patient69,Other,Tumor,53173,335076,True
+SRR4362938,Patient69,CD4_Memory,Tumor,57239,285323,True
+SRR4362940,Patient69,Treg,Tumor,55382,436322,True
+SRR4362942,Patient71,Other,Blood,5979,13365,True
+SRR4362944,Patient71,CD4_Memory,Blood,7184,33379,True
+SRR4362947,Patient71,Treg,Blood,9038,56699,True
+SRR4362949,Patient71,Other,Lymph node,5688,57105,True
+SRR4362951,Patient71,CD4_Memory,Lymph node,8255,23998,True
+SRR4362953,Patient71,Treg,Lymph node,8868,19714,True
+SRR4362955,Patient71,Other,Tumor,11338,35385,True
+SRR4363053,Patient71,CD4_Memory,Tumor,9110,21182,True
+SRR4363376,Patient71,Treg,Tumor,12515,35225,True
+SRR2939855,Patient3,Treg,Tumor,1191,316447,True
+SRR2939854,Patient2,Treg,Tumor,190,75167,True
+SRR2939626,Patient2,Other,Tumor,227,96866,True
+SRR2939625,Patient1,Other,Tumor,678,154944,True
+SRR2939853,Patient1,Treg,Tumor,429,138470,True
+SRR3028140,Patient30,Treg,Blood,1085,182105,True
+SRR3028135,Patient29,Treg,Blood,652,243112,True
+SRR3028134,Patient28,Treg,Blood,1029,262751,True
+SRR3028133,Patient27,Treg,Blood,80,131828,False
+SRR3028132,Patient26,Treg,Blood,47,335973,False
+SRR2923100,Patient21,Treg,Blood,889,304431,True
+SRR2923098,Patient19,Treg,Blood,827,191836,True
+SRR2922718,Patient18,Treg,Blood,139,169187,True
+SRR2922711,Patient17,Treg,Blood,328,245585,True
+SRR2922674,Patient8,Treg,Blood,345,173170,True
+SRR2922692,Patient9,Treg,Blood,60,582957,False
+SRR2922693,Patient10,Treg,Blood,185,130059,True
+SRR2922696,Patient12,Treg,Blood,178,149109,True
+SRR2922699,Patient13,Treg,Blood,112,156625,True
+SRR2922701,Patient14,Treg,Blood,691,135251,True
+SRR2922704,Patient15,Treg,Blood,858,200756,True
+SRR2922705,Patient16,Treg,Blood,671,161263,True
+SRR2922673,Patient6,Treg,Blood,517,210669,True
+SRR2922529,Patient5,Treg,Blood,818,377011,True
+SRR2922528,Patient4,Treg,Blood,281,185514,True
+SRR2922527,Patient3,Treg,Blood,1238,376873,True
+SRR2922526,Patient2,Treg,Blood,370,91019,True
+SRR2922524,Patient1,Treg,Blood,2013,152834,True
+SRR3028131,Patient30,Other,Blood,1953,132423,True
+SRR3028130,Patient29,Other,Blood,490,186996,True
+SRR3028129,Patient28,Other,Blood,1561,271610,True
+SRR3073561,Patient27,Other,Blood,536,249022,True
+SRR3017565,Patient26,Other,Blood,237,107512,True
+SRR3017541,Patient21,Other,Blood,811,198429,True
+SRR3017458,Patient10,Other,Blood,71,127443,False
+SRR3017482,Patient12,Other,Blood,117,158410,True
+SRR3017507,Patient13,Other,Blood,143,203229,True
+SRR3017508,Patient14,Other,Blood,449,154329,True
+SRR3017509,Patient15,Other,Blood,600,297376,True
+SRR3017511,Patient16,Other,Blood,1051,247836,True
+SRR3017513,Patient17,Other,Blood,1353,219494,True
+SRR3017536,Patient18,Other,Blood,445,231101,True
+SRR3017539,Patient19,Other,Blood,1364,482363,True
+SRR3017434,Patient9,Other,Blood,248,144686,True
+SRR3073560,Patient6,Other,Blood,417,189262,True
+SRR3017431,Patient5,Other,Blood,666,222433,True
+SRR3017407,Patient4,Other,Blood,277,193034,True
+SRR3017384,Patient3,Other,Blood,1250,364479,True
+SRR3017382,Patient2,Other,Blood,471,86306,True
+SRR3017379,Patient1,Other,Blood,1271,157953,True
+SRR4362904,Patient62,Treg,Tumor,31483,603457,True
+SRR4362902,Patient62,CD4_Memory,Tumor,8038,593588,True
+SRR4362901,Patient62,Other,Tumor,22767,622341,True
+SRR4362897,Patient62,Treg,Lymph node,10777,613010,True
+SRR4362895,Patient62,CD4_Memory,Lymph node,5746,624204,True
+SRR4362893,Patient62,Other,Lymph node,8876,614638,True
+SRR4362891,Patient62,Treg,Blood,9839,650502,True
+SRR4362889,Patient62,CD4_Memory,Blood,5265,545270,True
+SRR4362887,Patient62,Other,Blood,13286,612112,True
+SRR4362877,Patient64,Treg,Tumor,7126,12417,True
+SRR4362875,Patient64,CD4_Memory,Tumor,6450,14069,True
+SRR4362873,Patient64,Other,Tumor,8218,15461,True
+SRR4362844,Patient64,Treg,Lymph node,9014,22634,True
+SRR4362816,Patient64,CD4_Memory,Lymph node,5898,11358,True
+SRR4362814,Patient64,Other,Lymph node,6731,17298,True
+SRR4362701,Patient64,Treg,Blood,4899,7429,True
+SRR4362698,Patient64,CD4_Memory,Blood,5426,14081,True
+SRR4362695,Patient64,Other,Blood,5193,8276,True
+SRR3051535,Patient8,Other,Blood,497,165795,True
+SRR3046406,Patient35,Treg,Tumor,633,360035,True
+SRR3046404,Patient34,Treg,Tumor,2451,371824,True
+SRR3046402,Patient33,Treg,Tumor,461,518606,True
+SRR3046397,Patient32,Treg,Tumor,528,428712,True
+SRR3046396,Patient31,Treg,Tumor,901,262789,True
+SRR3046410,Patient33,Other,Tumor,406,516595,True
+SRR3046409,Patient32,Other,Tumor,428,409946,True
+SRR3046407,Patient31,Other,Tumor,998,268968,True
+SRR3046213,Patient35,Treg,Blood,481,340673,True
+SRR3046119,Patient34,Treg,Blood,967,311418,True
+SRR3046036,Patient33,Treg,Blood,197,368835,True
+SRR3045992,Patient32,Treg,Blood,302,372481,True
+SRR3045986,Patient35,Other,Blood,645,371866,True
+SRR3045985,Patient34,Other,Blood,2659,304952,True
+SRR3045979,Patient33,Other,Blood,462,222146,True
+SRR3045978,Patient32,Other,Blood,923,339163,True
+SRR3045971,Patient31,Other,Blood,813,272858,True
+SRR3046412,Patient35,CD4_Memory,Blood,231,444092,True
+SRR3046411,Patient34,CD4_Memory,Blood,225,347391,True
+SRR3034186,Patient30,CD4_Memory,Blood,190,305556,True
+SRR3034185,Patient29,CD4_Memory,Blood,320,293811,True
+SRR3034184,Patient28,CD4_Memory,Blood,333,194221,True
+SRR3034183,Patient27,CD4_Memory,Blood,128,251621,True
+SRR3034182,Patient26,CD4_Memory,Blood,137,309994,True
+SRR3034181,Patient21,CD4_Memory,Blood,1278,314160,True
+SRR3034180,Patient19,CD4_Memory,Blood,318,242765,True
+SRR3034179,Patient18,CD4_Memory,Blood,187,104283,True
+SRR3034178,Patient17,CD4_Memory,Blood,924,106270,True
+SRR3034177,Patient16,CD4_Memory,Blood,533,249763,True
+SRR3034176,Patient15,CD4_Memory,Blood,1332,239569,True
