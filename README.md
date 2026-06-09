@@ -28,15 +28,13 @@ Patient-Identity-Dominates-Breast-Cancer-TCR-Diversity/
 ## Analyses Performed
 
 ### Primary Pipeline
-1. **Data loading & QC** — Standardisation (CDR3 length 5–25aa, TRBV/J genes, ≥100 clonotypes, ≥1000 reads)
-2. **Alpha diversity** — Shannon, invSimpson, Gini, Pielou, Clonality, Hill numbers, Chao1, top-10% fraction
-3. **Beta diversity** — Bray-Curtis, PCoA, PERMANOVA, Morisita-Horn overlap
-4. **Power-law modelling** — Pooled & patient-level alpha exponents, Vuong model selection, x-min sensitivity
-5. **Clonal-sharing network** — Jaccard inter-patient network, Louvain communities, Kruskal-Wallis test
-6. **Mixed-effects model** — ICC estimation with cluster-bootstrap CI
-7. **Centrality vs alpha** — Spearman correlation
-
-### Additional Analyses (A1–A12)
+- **Data loading & QC** — Standardisation (CDR3 length 5–25aa, TRBV/J genes, ≥100 clonotypes, ≥1000 reads)
+- **Alpha diversity** — Shannon, invSimpson, Gini, Pielou, Clonality, Hill numbers, Chao1, top-10% fraction
+- **Beta diversity** — Bray-Curtis, PCoA, PERMANOVA, Morisita-Horn overlap
+- **Power-law modelling** — Pooled & patient-level alpha exponents, Vuong model selection, x-min sensitivity
+- **Clonal-sharing network** — Jaccard inter-patient network, Louvain communities, Kruskal-Wallis test
+- **Mixed-effects model** — ICC estimation with cluster-bootstrap CI
+- **Centrality vs alpha** — Spearman correlation
 - **A1**: V/J gene segment usage frequencies
 - **A2**: CDR3 length distribution & amino acid composition
 - **A3**: Differential clonal abundance (log2 FC, FDR-corrected)
