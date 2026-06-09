@@ -14,28 +14,15 @@ Power-law modelling and diversity analysis of T-cell receptor beta (TRB) reperto
 ## Directory Structure
 
 ```
-analysis_june_2026/
+Patient-Identity-Dominates-Breast-Cancer-TCR-Diversity/
 ├── README.md
 ├── scripts/
-│   ├── 01_build_metadata.py       # Parse raw metadata → clean sample sheet
-│   ├── 02_main_pipeline.py        # Primary analysis pipeline
-│   └── 03_additional_analyses.py  # Extended analyses (A1–A12)
-├── tables/                        # Primary analysis tables (17 CSVs)
-│   ├── Table2_alpha_diversity.csv
-│   ├── Table3_powerlaw_pooled.csv
-│   ├── Table4_network_metrics.csv
-│   └── ...
-├── figures/                       # Primary analysis figures (6 PNGs)
-│   ├── Fig1_alpha_diversity.png
-│   ├── Fig2_pcoa.png
-│   ├── Fig4_powerlaw_rankfreq.png
-│   ├── Fig5_alpha_by_subset.png
-│   ├── Fig7_network.png
-│   └── FigS_metric_benchmark.png
-└── additional_analyses/
-    ├── tables/                    # Extended analysis tables (22 files)
-    ├── figures/                   # Extended analysis figures (14 PNGs)
-    └── additional_analyses_summary.txt
+│   ├── 01_build_metadata.py       
+│   ├── 02_main_pipeline.py        
+│   └── 03_additional_analyses.py  
+├── results/                        
+├── figures/                       
+
 ```
 
 ## Analyses Performed
